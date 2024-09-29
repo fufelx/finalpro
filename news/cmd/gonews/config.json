@@ -1,0 +1,11 @@
+{
+   "rss":[
+      "https://dtf.ru/rss",
+      "https://rsshub.app/telegram/channel/Cbpub",
+      "https://rsshub.app/telegram/channel/mash",
+      "https://rsshub.app/telegram/channel/technomotel",
+      "https://rsshub.app/telegram/channel/topor",
+      "https://habr.com/ru/rss/hub/go/all/?fl=ru"
+   ],
+   "request_period": 3
+}
